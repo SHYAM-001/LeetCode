@@ -7,9 +7,14 @@ Welcome to the LeetCode problem solutions repository! My name is Shyam, and in t
 
 ---
 
-## Easy Problems
 
-  
+# Table of Contents
+✔️ [Easy Problems](#easy-problems)
+   - 1.[Two Sum](#1-two-sum)
+
+
+---
+## Easy Problems
 
 ### 1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 
