@@ -15,7 +15,7 @@ Welcome to the LeetCode problem solutions repository! My name is Shyam, and in t
 
 ✔️ [Medium Problems](#medium-problems)  
 - 2 [Add Two Numbers](#add-two-numbers)
-- 3 [Longest Substring Without Repeating Characters](#Longest-substring-without-repeating-characters)
+- 3 [Longest Substring Without Repeating Characters](#longest-substring-without-repeating-characters)
 
 
 ---
