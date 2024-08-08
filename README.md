@@ -11,7 +11,7 @@ Welcome to the LeetCode problem solutions repository! My name is Shyam, and in t
 
   
 
-### 1. <a href="https://leetcode.com/problems/two-sum/description/" target="_blank">Two Sum</a>
+### 1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 
   
