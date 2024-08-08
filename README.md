@@ -9,12 +9,13 @@ Welcome to the LeetCode problem solutions repository! My name is Shyam, and in t
 
 
 # Table of Contents
-✔️ [Easy Problems](#easy-problems)
-    -  1.[Two Sum](#two-sum)
 
-    
-✔️ [Medium Problems](#medium-problems)
-    -  2.[Add Two Numbers](#add-two-numbers)
+✔️ [Easy Problems](#easy-problems)  
+- [Two Sum](#two-sum)
+
+✔️ [Medium Problems](#medium-problems)  
+- [Add Two Numbers](#add-two-numbers)
+
 
 ---
 ## Easy Problems
